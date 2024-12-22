@@ -1,0 +1,14 @@
+<script>start("c:\\Users\\vinay\\Desktop\\New folder\\Smart-Home-Manager\\Backend\\");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow(".husky",".husky",1,0,"0 B",1734684874,"12/20/24, 2:24:34 PM");</script>
+<script>addRow("controller","controller",1,0,"0 B",1734785523,"12/21/24, 6:22:03 PM");</script>
+<script>addRow("middlewares","middlewares",1,0,"0 B",1734784236,"12/21/24, 6:00:36 PM");</script>
+<script>addRow("models","models",1,0,"0 B",1734801855,"12/21/24, 10:54:15 PM");</script>
+<script>addRow("node_modules","node_modules",1,0,"0 B",1734792947,"12/21/24, 8:25:47 PM");</script>
+<script>addRow("routes","routes",1,0,"0 B",1734785523,"12/21/24, 6:22:03 PM");</script>
+<script>addRow(".env",".env",0,86,"86 B",1734875104,"12/22/24, 7:15:04 PM");</script>
+<script>addRow(".gitignore",".gitignore",0,18,"18 B",1734684874,"12/20/24, 2:24:34 PM");</script>
+<script>addRow("index.js","index.js",0,712,"712 B",1734875123,"12/22/24, 7:15:23 PM");</script>
+<script>addRow("package-lock.json","package-lock.json",0,100609,"98.3 kB",1734792947,"12/21/24, 8:25:47 PM");</script>
+<script>addRow("package.json","package.json",0,699,"699 B",1734684874,"12/20/24, 2:24:34 PM");</script>
+<script>addRow("README.md","README.md",0,2,"2 B",1734684874,"12/20/24, 2:24:34 PM");</script>
